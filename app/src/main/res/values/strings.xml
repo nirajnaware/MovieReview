@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MovieReview</string>
+    <string name="add_rating">Add Rating</string>
+    <string name="about_the_movie">About the movie</string>
+</resources>
